@@ -1,0 +1,16 @@
+Nama        : Muhammad Bagas Pradana
+NIM         : 1313618015
+Prodi       : Ilmu Komputer UNJ
+Angkatan    : 2018
+Mata Kuliah : Perancangan dan Pemrograman Web 112
+
+Assalammualaikum Pak Eka, Maksud dari Pesan ini bermaksud memberikan penjelasan kenapa saya mengirim
+cukup banyak file. 
+
+Dikarenakan Class Diagram Milik saya cukup besar sehingga tidak terbaca serta belum memiliki warna pemisah 
+antara Model, View, Controler. Maka dari itu, saya menambahkan file PDF serta DOC sebagai file tambahan yang 
+berfungsi memberi penggambaran gambar, Pewarnaan yang berbeda antar Operation() MVC, dan makna yang lebih kompleks 
+daripada file JPEG yang saya kirim di file satunya. Dalam file PDF tersebut, memiliki penjelasan yang cukup kompleks
+mengenai Class Diagram yang saya buat pak.
+
+Terimakasih Banyak Pak Eka.
