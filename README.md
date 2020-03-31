@@ -2,8 +2,5 @@
 
 Hospital Management System adalah Aplikasi yang meng-integrasikan segala kegiatan yang ada pada rumah sakit kedalam satu Lokasi. Sehingga segala kegiatan yang ada didalam rumah sakit tersebut, dapat dirangkai dan di record kedalam system aplikasi. Hal ini memungkinkan proses kegiatan yang ada pada rumah sakit tersebut menjadi lebih terstruktur, efisien, serta meminimalkan kejadian miss-communication antar proccess yang ada didalam rumah sakit tersebut.
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Aplikasi ini memiliki 4 tipe Users yang dapat menggunakannya, yaitu Admin yang bertugas untuk mengontrol jalannya administrasi rumah sakit, 
+Pharmacist yang bertugas untuk menjalankan roda kegiatan obat rumah sakit, Dokter, dan Pengunjung rumah sakit.
