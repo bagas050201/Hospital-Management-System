@@ -29,3 +29,34 @@ Setiap users pada aplikasi ini memiliki kemampuannya masing-masing.Kemampuan mas
 * Membuat rangkaian CRUD pada Form Pasien.
 * Aksesbilitas pada database Janji Bertemu Dokter.
 
+### Business Proccess
+
+Firstly
+
+```
+Users akan dihadapkan pada tab aplikasi yang meminta users untuk melakukan login atau Sign up kedalam aplikasi Hospital Management System
+```
+
+Secondly
+
+```
+Jika users belum memiliki akun, maka users diwajibkan untuk mengisi form Sign up yang telah disediakan aplikasi. Pembagian tipe Users ada pada bagian Sign up.
+```
+
+Thirdly
+
+```
+Kemudian,
+```
+
+Firstly
+
+```
+Users akan dihadapkan pada tab aplikasi yang meminta users untuk melakukan login atau Sign up kedalam aplikasi Hospital Management System
+```
+
+Firstly
+
+```
+Users akan dihadapkan pada tab aplikasi yang meminta users untuk melakukan login atau Sign up kedalam aplikasi Hospital Management System
+```
