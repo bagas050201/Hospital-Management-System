@@ -34,7 +34,7 @@ Setiap users pada aplikasi ini memiliki kemampuannya masing-masing.Kemampuan mas
 Firstly
 
 ```
-Users akan dihadapkan pada tab aplikasi yang meminta users untuk melakukan login atau Sign up kedalam aplikasi Hospital Management System
+Users akan dihadapkan pada tab aplikasi yang meminta users untuk melakukan login atau Sign up kedalam aplikasi Hospital Management System.
 ```
 
 Secondly
@@ -43,20 +43,13 @@ Secondly
 Jika users belum memiliki akun, maka users diwajibkan untuk mengisi form Sign up yang telah disediakan aplikasi. Pembagian tipe Users ada pada bagian Sign up.
 ```
 
-Thirdly
+Lastly
 
 ```
-Kemudian,
+Setelah membuat akun, Users akan ditampilkan viewing tab pada masing-masing tipe users, pada tab ini users dapat melakukan kegiatan yang berhubungan dengan segala sesuatu yang dapat dilakukan menggunakan akun tersebut.
 ```
 
-Firstly
 
-```
-Users akan dihadapkan pada tab aplikasi yang meminta users untuk melakukan login atau Sign up kedalam aplikasi Hospital Management System
-```
+## Authors
 
-Firstly
-
-```
-Users akan dihadapkan pada tab aplikasi yang meminta users untuk melakukan login atau Sign up kedalam aplikasi Hospital Management System
-```
+* **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta * - [bagas050201](https://github.com/bagas050201)
