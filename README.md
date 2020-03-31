@@ -52,4 +52,4 @@ Setelah membuat akun, Users akan ditampilkan viewing tab pada masing-masing tipe
 
 ## Authors
 
-* **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta * - [bagas050201](https://github.com/bagas050201)
+* **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta* - [bagas050201](https://github.com/bagas050201)
