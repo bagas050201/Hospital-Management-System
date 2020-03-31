@@ -1,2 +1,31 @@
 # Hospital Management System
-Repository ini dibuat sebagai tempat mengumpulkan tugas Assignment 1 dari mata kuliah Perancangan dan Pemrograman Web 112 Muhammad Bagas Pradana 1313618015
+
+Hospital Management System adalah Aplikasi yang meng-integrasikan segala kegiatan yang ada pada rumah sakit kedalam satu Lokasi. Sehingga segala kegiatan yang ada didalam rumah sakit tersebut, dapat dirangkai dan di record kedalam system aplikasi. Hal ini memungkinkan proses kegiatan yang ada pada rumah sakit tersebut menjadi lebih terstruktur, efisien, serta meminimalkan kejadian miss-communication antar proccess yang ada didalam rumah sakit tersebut.
+
+Aplikasi ini memiliki 4 tipe Users yang dapat menggunakannya, yaitu Admin, Pharmacist, Dokter, dan Pengunjung rumah sakit.
+
+Setiap users pada aplikasi ini memiliki kemampuannya masing-masing.Kemampuan masing-masing dari users memiliki batasan pada aksesbilitas pada masing-masing komponen-komponen penting. 
+
+## Admin
+
+* Dapat mengontrol seluruh data pada aplikasi Hospital Management System.
+* Aksesbilitas pada database seluruh akun.
+* Membuat rangkaian CRUD pada Management Dokter.
+* Membuat rangkaian CRUD pada Management pengadaan barang.
+* Membuat rangkaian CRUD pada Management Janji Bertemu.
+
+## Pharmacist
+
+* Aksesbilitas pada database Barang berupa pengadaan Obat.
+* Membuat rangkaian CRUD pada Kebutuhan Pharmacist.
+
+## Dokter
+
+* Aksesbilitas pada database Janji Bertemu Pasien.
+* Aksesbilitas pada database Barang berupa pengadaan Obat.
+
+## Pengunjung
+
+* Membuat rangkaian CRUD pada Form Pasien.
+* Aksesbilitas pada database Janji Bertemu Dokter.
+
