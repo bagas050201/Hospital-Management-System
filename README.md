@@ -7,7 +7,7 @@ Aplikasi ini memiliki 4 tipe Users yang dapat menggunakannya, yaitu Admin yang b
 
 ## Built With
 
-* [Python 3.6+](https://www.python.org/downloads/) - [How to Install](https://www.youtube.com/watch?v=ndrCfBJkkvE)
-* [MongoDB](https://www.mongodb.com/download-center) - [How to Install](https://www.youtube.com/watch?v=FwMwO8pXfq0) 
-* [MongoDB Compass](https://www.mongodb.com/download-center/compass) - [How to Use](https://www.youtube.com/watch?v=gJ82Ifm-VbA)
+* [Python 3.6+](https://www.python.org/downloads/) - [[How to Install](https://www.youtube.com/watch?v=ndrCfBJkkvE)]
+* [MongoDB](https://www.mongodb.com/download-center) - [[How to Install](https://www.youtube.com/watch?v=FwMwO8pXfq0)]
+* [MongoDB Compass](https://www.mongodb.com/download-center/compass) - [[How to Use](https://www.youtube.com/watch?v=gJ82Ifm-VbA)]
 * [PyQT5](https://pypi.org/project/PyQt5/)
