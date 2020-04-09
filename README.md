@@ -11,3 +11,12 @@ Aplikasi ini memiliki 4 tipe Users yang dapat menggunakannya, yaitu Admin yang b
 * [MongoDB](https://www.mongodb.com/download-center) - [[How to Install](https://www.youtube.com/watch?v=FwMwO8pXfq0)]
 * [MongoDB Compass](https://www.mongodb.com/download-center/compass) - [[How to Use](https://www.youtube.com/watch?v=gJ82Ifm-VbA)]
 * [PyQT5](https://pypi.org/project/PyQt5/) - [pymongo](https://api.mongodb.com/python/current/tutorial.html) - the library used in this program
+
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](https://github.com/bagas050201/Hospital-Management-System/blob/master/LICENSE) file for details
+
+## Authors
+
+* **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta* - [bagas050201](https://github.com/bagas050201)
