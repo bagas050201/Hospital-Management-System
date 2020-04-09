@@ -28,7 +28,40 @@ Aplikasi ini memiliki 4 tipe Users yang dapat menggunakannya, yaitu Admin yang b
 ## How to Get Started With This Program
 1. Unduh/clone repository ini.
 2. Lakukan Installasi tools yang telah disediakan seperti, Python, MongoDB, dan MongoDB Compass.
-3. 
+3. Lakukan Installasi Library PyQT5-nya :
+> Yang Pertama
+>> Tambahkan Environment Python pada Advance System Setting Komputer anda :
+>>> * Open My Computer
+>>> * Click Properties
+>>> * Click Advance System Setting
+>>> * Click Environment Variables
+>>> * Cari Variables Path lalu Klik Edit
+>>> * Click New lalu masukan directory installasi Python pada Komputer anda. contoh : C:\Users\asus\AppData\Local\Programs\Python\Python36
+>>> * Click OK
+
+> Yang Kedua, Buka Command Prompt lalu Run Administration pada komputer Windows anda, lalu ketik :
+
+```
+pip install PyQt5
+```
+
+jika ingin lebih lengkap bisa menambahkan
+```
+pip install pyqt5-tools
+```
+
+> Jika sudah selesai mendownload, kita bisa mengecek berhasil atau tidaknya file tersebut didownload melalui :
+```
+pip list
+```
+
+> Library tersebut bisa dilihat melalui Komputer anda. Lokasinya ada di :
+```
+ C:\Users\asus\AppData\Local\Programs\Python\Python36\Lib\site-packages
+```
+
+## A Complete Video Tutorial of This Application
+Example to run this applications in Python PyQT5, based on M. Bagas Pradana video: 
 
 ## License
 
