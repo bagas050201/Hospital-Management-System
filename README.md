@@ -100,7 +100,7 @@ pip list
 10. Jika ingin keluar dari aplikasi, tinggal meng-klik tombol "Back" yang telah disediakan.
 
 ## A Complete Video Tutorial of This Application
-Example to run this applications in Python PyQT5, based on M. Bagas Pradana video: 
+Example to run this applications in Python PyQT5, based on M. Bagas Pradana video: https://www.youtube.com/watch?v=gAoFsqvq_2A&t=397s
 
 ## License
 
