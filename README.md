@@ -22,7 +22,9 @@ Aplikasi ini memiliki 4 tipe Users yang dapat menggunakannya, yaitu Admin yang b
 
 4. This application can perform CRUD (Create, Read, Update, Delete) work processes on the MongoDB database which is implemented through a view on the PyQT5 GUI. However, some users cannot access almost the entire MongoDB database, only Admin Users can access the entire database. So that data security cannot be leaked to any users who use this application.
 
-5. A series of program flow made to design this application is made as easy as possible, so it is expected to be easily read by all people who want to use this application, but are curious about how the series of programs used to create this application.
+5. Each type of user account can perform CRUD activities. except the doctor's account which can only read the database.
+
+6. A series of program flow made to design this application is made as easy as possible, so it is expected to be easily read by all people who want to use this application, but are curious about how the series of programs used to create this application.
 
 
 ## How to Get Started With This Program
