@@ -40,7 +40,7 @@ Aplikasi ini memiliki 4 tipe Users yang dapat menggunakannya, yaitu Admin yang b
 >>> * Click OK
 >>> * Or you can see the tutorial How to add python to windows path : [Manual Setting](https://datatofish.com/add-python-to-windows-path/)
 
->> Notes : Check apakah pip sudah ter-install pada komputer anda. Tutorial singkat : [Link 1](https://phoenixnap.com/kb/install-pip-windows) - [Link 2](https://pypi.org/project/pip/) - [Link 3](https://www.tecmint.com/install-pip-in-linux/)
+>> Notes : Check apakah pip sudah ter-install pada CMD komputer anda. Tutorial singkat : [Link 1](https://phoenixnap.com/kb/install-pip-windows) - [Link 2](https://pypi.org/project/pip/) - [Link 3](https://www.tecmint.com/install-pip-in-linux/)
 
 > Yang Kedua, Buka Command Prompt lalu Run Administration pada komputer Windows anda, lalu ketik :
 
