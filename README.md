@@ -31,7 +31,7 @@ Aplikasi ini memiliki 4 tipe Users yang dapat menggunakannya, yaitu Admin yang b
 1. Unduh/clone repository ini.
 2. Lakukan Installasi tools yang telah disediakan seperti, Python, MongoDB, dan MongoDB Compass.
 3. Lakukan Installasi Library PyQT5-nya :
-> Yang Pertama
+> 1. Yang Pertama
 >> Tambahkan Environment Python pada Advance System Setting Komputer anda :
 >>> * Open My Computer
 >>> * Click Properties
@@ -44,7 +44,7 @@ Aplikasi ini memiliki 4 tipe Users yang dapat menggunakannya, yaitu Admin yang b
 
 >> Notes : Check apakah pip sudah ter-install pada CMD komputer anda. Tutorial singkat : [Link 1](https://phoenixnap.com/kb/install-pip-windows) - [Link 2](https://pypi.org/project/pip/) - [Link 3](https://www.tecmint.com/install-pip-in-linux/)
 
-> Yang Kedua, Buka Command Prompt lalu Run Administration pada komputer Windows anda, lalu ketik :
+> 2. Yang Kedua, Buka Command Prompt lalu Run Administration pada komputer Windows anda, lalu ketik :
 
 ```
 pip install PyQt5
