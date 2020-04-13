@@ -114,3 +114,5 @@ This project is licensed under the GNU General Public License v3.0 License - see
 ## Authors
 
 * **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta* - [bagas050201](https://github.com/bagas050201)
+* contact person : bagaspradana0201@gmail.com
+
